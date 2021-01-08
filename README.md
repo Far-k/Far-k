@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an agency website
+- 🔭 I’m currently working on getting a job
 - 🌱 I’m currently learning Angular.js
 - 👯 I’m looking to collaborate on React based projects
 - 🤔 I’m looking for help with learning Node.js
