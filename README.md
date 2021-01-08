@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I don't know how to ride a bike
 
 # Lets Connect
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/walid-younis-2025/">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/farzana-karim-2608/">
 <img src = /bluelink.png width="60px"/>
   </a>
 
